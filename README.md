@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Renato, I'm 27 years old and and I have a degree in Civil Engineering (2018). I'm studying programming with the "FULL STACK WEB DEVELOPMENT" class.
+My name is Renato, I'm 27 years old and I have a degree in Civil Engineering (2018). I'm studying programming with the "FULL STACK WEB DEVELOPMENT" class.
 
 I started my studies in the Development area in 2021 and I was able to experience some technologies, such as HTML, CSS, JavaScript, Bootstrap, Jquery, React, Firebase, Node, among others.
 
